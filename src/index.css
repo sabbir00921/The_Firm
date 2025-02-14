@@ -15,6 +15,9 @@
   --color-ash_color: var(--ash_color);
   --font-nunito: var(--nunito);
 }
+body{
+  font-family: var(--nunoto);
+}
 .container {
   max-width: 1200px;
   margin: 0 auto;
